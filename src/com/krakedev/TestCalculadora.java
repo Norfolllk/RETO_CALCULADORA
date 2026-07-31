@@ -13,6 +13,10 @@ public class TestCalculadora {
 		int r2;
 		r2 = c1.restar(4, 2);
 		System.out.println("Resultado Resta: " + r2);
+		
+		double r3;
+		r3 = c1.multiplicar(10, 5);
+		System.out.println("Resultado Multiplicación: " + r3);
 
 	}
 

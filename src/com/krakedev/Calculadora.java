@@ -17,6 +17,13 @@ public class Calculadora {
 		return resultado;
 
 	}
+	
+	public double multiplicar(double valor1, double valor2) {
 
+		double producto;
+		producto = valor1 * valor2;
+		return producto;
+
+	}
 
 }
